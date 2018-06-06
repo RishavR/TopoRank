@@ -1,0 +1,7 @@
+Text Summarization is a way to produce a text which contains the significant portion of information of the original texts. Different methodologies are developed till now depending upon several parameters to find
+the summary as the position, format and type of the sentences in an input text formats of different words frequency of a particular word in a text etc. But according to different languages and input sources these
+parameters are varied. As result the performance of the algorithm is greatly affected. The proposed approach summarizes a text without depending upon those parameters. Here the relevance of the
+sentences within the text is derived by Simplified Lesk algorithm and WordNet an online dictionary. This approach is not only independent of the format of the text and position of a sentence in a text as the
+sentences are arranged at first according to their relevance before the summarization process the percentage of summarization can be varied according to needs. The proposed approach gives around 80%
+accurate results on 50% summarization of the original text with respect to the manually summarized result performed on 50 different types and lengths of texts. We have achieved satisfactory results even upto 25%
+summarization of the original text.

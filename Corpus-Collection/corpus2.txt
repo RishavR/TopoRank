@@ -1,0 +1,25 @@
+Automatic text summarization is the technique where a computer summarizes a text. A text is entered into the computer and a summarized text is returned which is a non redundant extract from the original text.
+
+The technique has its roots in the 60s and has been developed during 30 years but today with the Internet and the WWW the technique has become more important.
+Microsoft Word has since 1997 a summarizer for documents. See under Tools where you can find Summary.
+
+Automatic text summarization can be used.
+
+    To summarize news to SMS or WAP-format for mobile phones/PDA.
+
+    To let a computer synthetical read the summarized text. Written text can be to long and boring to listen to.
+
+    In search engines to present compressed descriptions of the search results.
+
+    In keyword directed subscription of news which are summarized and pushed to the user.
+
+    To search in foreign languages and obtain an automatically translated summary of the automatically summarized text.
+
+SweSum is the first automatic text summarizer for Swedish.
+It summarizes Swedish news text in HTML/text format on the WWW.
+During the summarization 5 to 10 key words a mini summary is produced.
+Accurancy 84% at 40% summary of news with an average original length of 181 words.
+
+Automatic text summarization is based on statistical,linguistical and heuristic methods where the summarization system calculates how often certain key words.The Swedish system has 700 000 possible Swedish entries pointing at 40 000 Swedish base key words. The key words belong to the so called open class words. The summarization system calculates the frequency of the key words in the text which sentences they are present in and where these sentences are in the text. It considers if the text is tagged with bold text tag first paragraph tag or numerical values. All this information is compiled and used to summarize the original text.
+
+SweSum is also available for Danish Norwegian English Spanish French Italian Greek Farsi and German texts.
